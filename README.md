@@ -16,3 +16,6 @@ scrapy crawl egd -o output.json
 # generates/overwrites the podcast.xml podcast feed
 python main.py
 ```
+
+The end result is that you can point your podcast app to this URL and it should work for all the older episodes! 
+[https://raw.githubusercontent.com/flamableconcrete/egd-rss-creator/master/podcast.xml](https://raw.githubusercontent.com/flamableconcrete/egd-rss-creator/master/podcast.xml)
