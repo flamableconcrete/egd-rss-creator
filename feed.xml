@@ -6,7 +6,7 @@
 		<description>Engaging Gospel Doctrine provides supplementary resources for Latter-Day Saint Sunday School.</description>
 		<docs>http://www.rssboard.org/rss-specification</docs>
 		<generator>python-feedgen</generator>
-		<lastBuildDate>Mon, 01 Jul 2019 00:31:31 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 07 Jul 2019 19:42:41 +0000</lastBuildDate>
 		<itunes:category text="Religion &amp; Spirituality">
 			<itunes:category text="Christianity"/>
 		</itunes:category>
@@ -2625,13 +2625,6 @@
 			<guid isPermaLink="false">https://engaginggospeldoctrine.org/2013/01/27/031-doctrine-covenants-lesson-5-revelation-i/</guid>
 			<enclosure length="0" type="audio/mpeg" url="https://egdhome.files.wordpress.com/2019/02/egd-dcch-005.mp3"/>
 			<pubDate>Sun, 27 Jan 2013 00:00:00 -0700</pubDate>
-		</item>
-		<item>
-			<title>Gospel Doctrine Lesson 1: Introduction to the Doctrine &amp; Covenants and Church History</title>
-			<link>https://engaginggospeldoctrine.org/2013/01/18/gospel-doctrine-lesson-1-introduction-to-the-doctrine-covenants-and-church-history/</link>
-			<guid isPermaLink="false">https://engaginggospeldoctrine.org/2013/01/18/gospel-doctrine-lesson-1-introduction-to-the-doctrine-covenants-and-church-history/</guid>
-			<enclosure length="0" type="audio/mpeg" url="https://egdhome.files.wordpress.com/2019/02/egd-dcch-001.mp3"/>
-			<pubDate>Fri, 18 Jan 2013 00:00:00 -0700</pubDate>
 		</item>
 		<item>
 			<title>030: Doctrine &amp; Covenants Lesson 4: The Book of Mormon</title>

@@ -41,10 +41,15 @@ def main():
         episodes = sorted(data, key=lambda k: (k['pubDate'], k['title'] ))
 
         for episode in episodes:
+            episode_num = episode['title'].split(':')[0]
+
             if episode['pubDate'].date() > date_cutoff.date():
                 continue
+            if episode_num == 'Gospel Doctrine Lesson 1':
+                continue
 
-            print('adding:', episode['pubDate'])
+            print(f"{episode_num} - {episode['pubDate'].strftime('%m/%d/%Y')} (audio) {episode['audio_url']} --- (link) {episode['link']} --- {episode['title']}")
+            # print(f"* {episode['pubDate'].strftime('%m/%d/%Y')} [{episode['title']}]({episode['link']})")
             fe = fg.add_entry()
             fe.id(episode['link'])
             fe.title(episode['title'])
