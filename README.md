@@ -24,15 +24,15 @@ The end result is that you can point your podcast app to this URL and it should 
 
 ### Incorrect Audio
 
-* 07/04/2012 [002: Book of Mormon Lesson 25: Alma 17-22](https://engaginggospeldoctrine.org/2012/07/04/002-egd-25-alma-17-22/) - audio for episode 25
-* 07/04/2012 [003: Book of Mormon Lesson 26: Alma 23-29](https://engaginggospeldoctrine.org/2012/07/04/003-egd-26-alma-23-29/) - audio for episode 26
-* 06/05/2016 [195: Introspection and Atonement (BoM Gospel Doctrine Lesson 22)](https://engaginggospeldoctrine.org/2016/06/05/195_introspection_and_atonement_bom_gospel_doctrine_lesson_22/) - audio for episode 22
+* 07/04/2012 [002: Book of Mormon Lesson 25: Alma 17-22](https://engaginggospeldoctrine.org/2012/07/04/002-egd-25-alma-17-22/) - audio for episode 25. Should be `2012/07/egd-bom-025.mp3`
+* 07/04/2012 [003: Book of Mormon Lesson 26: Alma 23-29](https://engaginggospeldoctrine.org/2012/07/04/003-egd-26-alma-23-29/) - audio for episode 26. Should be `2012/07/egd-bom-026.mp3`
+* 06/05/2016 [195: Introspection and Atonement (BoM Gospel Doctrine Lesson 22)](https://engaginggospeldoctrine.org/2016/06/05/195_introspection_and_atonement_bom_gospel_doctrine_lesson_22/) - audio for episode 22. Should be `2019/02/egd-bom-022.mp3`
 
 ### No Audio
 
 These episodes have no audio on their pages. All but the first and last are from 2014 (Old Testament)
 
-* 03/01/2013 [036: Doctrine & Covenants Lesson 10: This Is My Voice unto All](https://engaginggospeldoctrine.org/2013/03/01/036-doctrine-covenants-lesson-10-this-is-my-voice-unto-all/) - missing audio - probably should be https://egdhome.files.wordpress.com/2019/02/egd-dcch-010.mp3
+* 03/01/2013 [036: Doctrine & Covenants Lesson 10: This Is My Voice unto All](https://engaginggospeldoctrine.org/2013/03/01/036-doctrine-covenants-lesson-10-this-is-my-voice-unto-all/) - Should be `2019/02/egd-dcch-010.mp3`
 * **078a - 105.1**
     * 01/02/2014 [078a: This is My Work and My Glory; OT lesson 1(Full)](https://engaginggospeldoctrine.org/2014/01/02/078a-this-is-my-work-and-my-glory-ot-lesson-1full/)
     * 01/02/2014 [078b: This is My Work and My Glory; OT lesson 1(Core)](https://engaginggospeldoctrine.org/2014/01/02/078b-this-is-my-work-and-my-glory-ot-lesson-1core/)
